@@ -1,0 +1,5 @@
+{
+  "name": "Onsite Object Detection Trainer",
+  "description": "A local application to perform onsite training for object detection. It includes tools for data preparation, training, monitoring, and inference.",
+  "requestFramePermissions": []
+}
